@@ -1,11 +1,3 @@
-applications
-documents
-dropbox
-movies 
-pictures
-desktop 
-downloads
-library
-music
-public
+#!/bin/bash
+Applications Documents Dropbox Movies  Pictures Desktop  Downloads Library Music Public
 
